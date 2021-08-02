@@ -1,0 +1,44 @@
+[
+ {
+  "id": "f387638a-4b27-49fc-baed-dfbe6e59a2d1",
+  "name": "shrijan",
+  "email": "shrijanabc@gmail.com",
+  "phoneNumber": 1111111144,
+  "isActive": true
+ },
+ {
+  "id": "255abcfa-ab3b-4791-a150-47c443de5108",
+  "name": "srivatsa",
+  "email": "srivatsaabc@gmail.com",
+  "phoneNumber": 2222222222,
+  "isActive": false
+ },
+ {
+  "id": "3fe39331-f2d4-4b91-9ac3-a418f6a820cb",
+  "name": "shambhavi",
+  "email": "shambhaviabc@gmail.com",
+  "phoneNumber": 3333333333,
+  "isActive": true
+ },
+ {
+  "id": "a1da69d2-55fb-4d4d-a037-3911273c1d17",
+  "name": "sam",
+  "email": "sam@gmail.com",
+  "phoneNumber": 2222222222,
+  "isActive": true
+ },
+ {
+  "id": "485e4d34-9c09-43ff-a585-36add3d94864",
+  "name": "mike",
+  "email": "mike@gmail.com",
+  "phoneNumber": 5555555555,
+  "isActive": false
+ },
+ {
+  "id": "37740801-d7ea-401d-af52-7e3b3d92dba1",
+  "name": "paxtron",
+  "email": "paxtron@gmail.com",
+  "phoneNumber": 1111111111,
+  "isActive": true
+ }
+]
