@@ -1,4 +1,4 @@
-# Golang-project
+# Golang-user-management-project
 
 1. file_handing -->to read the CSV file and write into json file
 2. model --> User struct with all the required fields is defined here
